@@ -20,7 +20,7 @@ BullfrogBaubleBelt: {
 }
 
 BullfrogLegs: {
-	// DisplayName: Bullfrog Legs
+	// DisplayName: 牛蛙腿
 	// Tooltip: Jumping while moving boosts you forward
 }
 
@@ -39,8 +39,8 @@ FrogInFroggle: {
 }
 
 KoiItem: {
-	// DisplayName: Koi
-	// Tooltip: "'Don't you play koi with me'"
+	// DisplayName: 锦鲤
+	// Tooltip: "“你不跟我一起逗锦鲤吗”"
 }
 
 Arowana: {
@@ -49,13 +49,13 @@ Arowana: {
 }
 
 DragonCrate: {
-	// DisplayName: Dragon Crate
-	// Tooltip: <right> to open
+	// DisplayName: 巨龙匣
+	// Tooltip: <right>打开
 }
 
 SpringCrate: {
-	// DisplayName: Spring Crate
-	// Tooltip: <right> to open
+	// DisplayName: 沁春匣
+	// Tooltip: <right>打开
 }
 
 KoiPopper: {
@@ -68,7 +68,7 @@ KoiPopper: {
 }
 
 FestivalLantern: {
-	// DisplayName: Festival Lantern
+	// DisplayName: 节日灯笼
 	// Tooltip: Starts a lantern night
 }
 
@@ -97,7 +97,7 @@ JadeBow: {
 }
 
 JadeChunk: {
-	// DisplayName: Jade Chunk
+	// DisplayName: 翠玉块
 	// Tooltip: ""
 }
 
@@ -107,22 +107,22 @@ JadeHarpoon: {
 }
 
 JadeHookItem: {
-	// DisplayName: Jade Hook
-	// Tooltip: Creates an explosion when you hook onto a tile
+	// DisplayName: 翠玉钩
+	// Tooltip: 钩到物块上时产生爆炸
 }
 
 JadeKunai: {
-	// DisplayName: Jade Kunais
-	// Tooltip: Repeated strikes increases damage from other weapons
+	// DisplayName: 翠玉苦无
+	// Tooltip: 反复打击会增加其他武器的伤害
 }
 
 JadePickaxe: {
-	// DisplayName: Jade Pickaxe
-	// Tooltip: Rocks drop more critters
+	// DisplayName: 翠玉镐
+	// Tooltip: 岩石会掉落更多生物
 }
 
 JadeStaff: {
-	// DisplayName: Jade Staff
+	// DisplayName: 翠玉法杖
 	/* Tooltip:
 		'''
 		Hold to release bursts of fire
@@ -320,7 +320,7 @@ WarriorStatueItem: {
 }
 
 JadeTorch: {
-	// DisplayName: Jade Torch
+	// DisplayName: 翠玉火把
 	// Tooltip: ""
 }
 
@@ -346,7 +346,7 @@ PufferfishBannerItem: {
 }
 
 DuelingSpirits: {
-	// DisplayName: Dueling Spirits
+	// DisplayName: 阴阳之魂
 	// Tooltip: ""
 }
 
@@ -356,15 +356,15 @@ JadeMantisBannerItem: {
 }
 
 JadePylonItem: {
-	// DisplayName: Jade Pylon
+	// DisplayName: 翠玉晶塔
 	/* Tooltip:
 		'''
-		Teleport to another pylon when 2 villagers are nearby 
-		You can only place one per type and in the matching biome
+		附近有2个城镇居民时可以传送至另一个晶塔
+		只能放置在匹配的生物群系中且每种类型只能放置一个
 		''' */
 }
 
 EelFists: {
 	// Tooltip: ""
-	// DisplayName: Eel Fists
+	// DisplayName: 鳗鱼拳套
 }
