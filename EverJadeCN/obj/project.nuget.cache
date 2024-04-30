@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaM67ql4ziU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25352\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EverJadeCN\\EverJadeCN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25352\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

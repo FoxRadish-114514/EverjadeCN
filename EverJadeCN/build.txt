@@ -1,0 +1,7 @@
+displayName = Everjade永恒之玉汉化补丁
+author = FoxRadish
+version = 0.1
+translationMod = true
+modReference = JadeFables
+side = Clinet
+sortAfter = = JadeFables
