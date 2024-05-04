@@ -49,7 +49,7 @@ Arowana: {
 }
 
 DragonCrate: {
-	// DisplayName: 巨龙匣
+	// DisplayName: 天龙匣
 	// Tooltip: <right>打开
 }
 
@@ -69,30 +69,30 @@ KoiPopper: {
 
 FestivalLantern: {
 	// DisplayName: 节日灯笼
-	// Tooltip: Starts a lantern night
+	// Tooltip: 开始一场灯笼夜
 }
 
 JadeHat: {
-	// DisplayName: Jade Hat
-	// Tooltip: 10% increased damage and critical strike chance
+	// DisplayName: 翠玉帽
+	// Tooltip: 伤害和暴击率各提高10%
 }
 
 JadeRobe: {
-	// DisplayName: Jade Robe
-	// Tooltip: 7% increased movement speed and run acceleration
+	// DisplayName: 翠玉长袍
+	// Tooltip: 移动速度和奔跑速度各提高7%
 }
 
 JadeAxe: {
-	// DisplayName: Jade Axe
-	// Tooltip: Trees drop more fruit
+	// DisplayName: 翠玉斧
+	// Tooltip: 树木会掉落更多水果
 }
 
 JadeBow: {
-	// DisplayName: Jade Bow
+	// DisplayName: 翠玉弓
 	/* Tooltip:
 		'''
-		Shoot critters to make them fight for you
-		Shoot town NPCs to give them a shield
+		射击小动物使它们为你而战
+		射击城镇NPC可给予他们一个盾牌
 		''' */
 }
 
@@ -102,8 +102,8 @@ JadeChunk: {
 }
 
 JadeHarpoon: {
-	// DisplayName: Jade Harpoon
-	// Tooltip: Hook yourself onto enemies and bounce off of them
+	// DisplayName: 翠玉鱼叉
+	// Tooltip: 将你钩向敌人，并从它们身上弹回来
 }
 
 JadeHookItem: {
@@ -247,55 +247,55 @@ BlossomWallItem: {
 }
 
 HardenedJadeSandItem: {
-	// DisplayName: Hardened Spring Sand
+	// DisplayName: 硬化沁春沙
 	// Tooltip: ""
 }
 
 JadeFountainItem: {
-	// DisplayName: Spring Fountain
-	// Tooltip: Makes nearby water sparkly
+	// DisplayName: 沁春喷泉
+	// Tooltip: 使附近的水发光
 }
 
 JadeLanternItem: {
-	// DisplayName: Spring Lantern
+	// DisplayName: 沁春灯笼
 	/* Tooltip:
 		'''
-		Place on top of an existing lantern to make it longer 
-		This does not comsune the lantern
+		放置在一个现有灯笼的顶部，使其变得更长 
+		这样做不会消耗灯笼
 		''' */
 }
 
 JadeLanternItemDebug: {
-	// DisplayName: Spring Lantern DEBUG
+	// DisplayName: 沁春灯笼DEBUG
 	// Tooltip: ""
 }
 
 JadeSandItem: {
-	// DisplayName: Spring Sand
+	// DisplayName: 沁春沙
 	// Tooltip: ""
 }
 
 JadeSandstoneItem: {
-	// DisplayName: Spring Sandstone
+	// DisplayName: 沁春沙岩
 	// Tooltip: ""
 }
 
 JadeSandWallItem: {
-	// DisplayName: Springstone Wall
+	// DisplayName: 沁春石墙
 	// Tooltip: ""
 }
 
 JadeSeaweedItem: {
-	// DisplayName: Spring Seaweed
+	// DisplayName: 沁春海草
 	// Tooltip: ""
 }
 
 JadeWaterfallBucket: {
-	// DisplayName: Waterfall Bucket
+	// DisplayName: 瀑布桶
 	/* Tooltip:
 		'''
-		Contains a small amount of waterfall
-		Can be poured out
+		盛有少量瀑布
+		可以倒出
 		''' */
 }
 
@@ -305,12 +305,12 @@ JasmineFlower: {
 }
 
 JadeGrassSeeds: {
-	// DisplayName: Spring Grass Seeds
-	// Tooltip: Can be placed
+	// DisplayName: 沁春草种
+	// Tooltip: 可放置
 }
 
 SpringChestItem: {
-	// DisplayName: Spring Chest
+	// DisplayName: 沁春箱
 	// Tooltip: ""
 }
 
