@@ -25,7 +25,7 @@ BullfrogLegs: {
 }
 
 BullfrogTongue: {
-	// DisplayName: Bullfrog Tongue
+	// DisplayName: 牛蛙舌
 	// Tooltip: ""
 }
 
@@ -49,7 +49,7 @@ Arowana: {
 }
 
 DragonCrate: {
-	// DisplayName: 天龙匣
+	// DisplayName: 神龙匣
 	// Tooltip: <right>打开
 }
 
@@ -157,27 +157,27 @@ LotusHammer: {
 }
 
 Dumpling: {
-	// DisplayName: Dumpling
+	// DisplayName: 饺子
 	/* Tooltip:
 		'''
-		Medium improvements to all stats
-		'Almost unrecognizable'
+		所有属性中幅提升
+		“几乎认不出来”
 		''' */
 }
 
 BigHeartItem: {
-	// DisplayName: Big Heart
-	// Tooltip: You shouldn't see this
+	// DisplayName: 大红心
+	// Tooltip: 你不应该看到这个
 }
 
 HeartbeatPotion: {
-	// DisplayName: Heartbeat Potion
-	// Tooltip: Heart pickups turn into larger hearts, which heal more
+	// DisplayName: 心动药水
+	// Tooltip: 捡起的红心会变成更大的心，能够治疗更多血量
 }
 
 JasmineTea: {
-	// DisplayName: Jasmine Tea
-	// Tooltip: "'Do you know why they call me The Dragon of The West?'"
+	// DisplayName: 茉莉花茶
+	// Tooltip: "“你知道他们为什么都叫我西方之龙吗？”"
 }
 
 SpineItem: {
@@ -191,7 +191,7 @@ SpinePotion: {
 }
 
 SpringWater: {
-	// DisplayName: Spring Water
+	// DisplayName: 沁春水
 	/* Tooltip:
 		'''
 		Clears almost all debuffs
@@ -214,11 +214,11 @@ FireworkPack: {
 }
 
 GongItem: {
-	// DisplayName: Gong and Ringer
+	// DisplayName: 锣与敲锣人
 	/* Tooltip:
 		'''
-		<left> to throw out a gong 
-		<right> to ring it, increasing its damage
+		<left>扔出一个锣
+		<right>敲击它，增加它的伤害
 		''' */
 }
 
@@ -242,7 +242,7 @@ TanookiLeaf: {
 }
 
 BlossomWallItem: {
-	// DisplayName: Cherry Blossom Wall
+	// DisplayName: 樱花墙
 	// Tooltip: ""
 }
 
@@ -326,8 +326,8 @@ JadeTorch: {
 
 # Banners
 BullfrogBannerItem: {
-	// DisplayName: Bullfrog Banner
-	// Tooltip: "{$CommonItemTooltip.BannerBonus}Bullfrog"
+	// DisplayName: 牛蛙旗
+	// Tooltip: "{$CommonItemTooltip.BannerBonus}牛蛙"
 }
 
 GiantSnailBannerItem: {
